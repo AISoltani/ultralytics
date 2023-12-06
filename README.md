@@ -62,7 +62,6 @@ Pip install the ultralytics package including all [requirements](https://github.
 ```bash
 pip install ultralytics
 ```
-
 </details>
 
 <details open>
